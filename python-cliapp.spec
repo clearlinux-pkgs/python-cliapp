@@ -4,7 +4,7 @@
 #
 Name     : python-cliapp
 Version  : 1.20150305.orig
-Release  : 6
+Release  : 7
 URL      : http://code.liw.fi/debian/pool/main/p/python-cliapp/python-cliapp_1.20150305.orig.tar.gz
 Source0  : http://code.liw.fi/debian/pool/main/p/python-cliapp/python-cliapp_1.20150305.orig.tar.gz
 Summary  : No detailed summary available
